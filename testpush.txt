@@ -1,0 +1,10 @@
+Story refinement
+- not all actors are end users
+- how big should a user story be
+--stories too big are considered epics (our user stories are features)
+- acceptance criteria
+-- only start adding acceptance criteria when 20% confidence it can get done in a sprint
+-- the different team members help come up with well rounded scenarios, PO Architect UX and QA
+-- team doesn't come in until we get to 50%-80% confident the US can get accomplished in a sprint
+- should have about 9 iterations worth of backlog
+- scenarios are excellent ways to delimit the stories
